@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RecordInput.cpp.obj": [
+			"CoreFunctionLibrary.gen.cpp.obj",
+			"InputRecordingUtils.gen.cpp.obj",
+			"RecordInput.init.gen.cpp.obj",
+			"TPSInputRecordingComponent.gen.cpp.obj",
+			"CoreFunctionLibrary.cpp.obj",
+			"JsonUtils.cpp.obj",
+			"RecordInput.cpp.obj",
+			"TPSInputRecordingComponent.cpp.obj"
+		]
+	}
+}

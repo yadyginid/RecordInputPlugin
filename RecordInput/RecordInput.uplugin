@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RecordInput",
+	"Description": "RecordInput",
+	"Category": "Other",
+	"CreatedBy": "https://github.com/yadyginid",
+	"CreatedByURL": "https://github.com/yadyginid",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RecordInput",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

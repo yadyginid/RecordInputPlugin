@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RecordInput.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\1\Desktop\RecordInputProject\RecordInputProject\Intermediate\Build\Win64\x64\RecordInputProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\1\Desktop\RecordInputProject\RecordInputProject\Plugins\RecordInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecordInput\Module.RecordInput.cpp.obj"
+"C:\Users\1\Desktop\RecordInputProject\RecordInputProject\Plugins\RecordInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecordInput\Default.rc2.res"
+/OUT:"C:\Users\1\Desktop\RecordInputProject\RecordInputProject\Plugins\RecordInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\RecordInput\UnrealEditor-RecordInput.lib"
